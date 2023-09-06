@@ -1,3 +1,5 @@
+<img src="https://cloud-native-dev-usage-tracker.cfapps.sap.hana.ondemand.com/pagehit/virtual-events/csmcn-heckerhome-visitor/1x1.png" alt="" height="1" width="1" style="display: none;" />
+
 # Gift Delivery
 Please leave your information to us.
 
